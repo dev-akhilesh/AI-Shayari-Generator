@@ -51,4 +51,30 @@ To run this project, you will need to add the following environment variables to
 `OPEN_AI_KEY`
 
 
- 
+ ## API Reference
+
+#### Welcome 
+
+```http
+  GET /
+```
+
+#### Get 
+
+```http
+  GET /shayari?keyword="value"
+```
+
+## Demo
+```
+https://gentle-belekoy-044652.netlify.app/
+```
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/u8dHVPC.png)
+
+![App Screenshot](https://i.imgur.com/Jc5xHNw.png)
+
+## Author
+
+- [@dev-akhilesh](https://github.com/dev-akhilesh)
