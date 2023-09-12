@@ -80,8 +80,6 @@ https://gentle-belekoy-044652.netlify.app/
 </div>
 
 
-![App Screenshot 2](./images/Screenshot-3.png)
-
 
 ## Author
 
