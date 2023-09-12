@@ -71,9 +71,12 @@ https://gentle-belekoy-044652.netlify.app/
 ```
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/u8dHVPC.png)
+![App Screenshot 1](./images/Screenshot-1.png)
 
-![App Screenshot](https://i.imgur.com/Jc5xHNw.png)
+![App Screenshot 2](./images/Screenshot-2.png)
+
+![App Screenshot 2](./images/Screenshot-3.png)
+
 
 ## Author
 
