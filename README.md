@@ -75,6 +75,11 @@ https://gentle-belekoy-044652.netlify.app/
 
 ![App Screenshot 2](./images/Screenshot-2.png)
 
+<div align="center">
+  <img src="./images/Screenshot-3.png" width="300">
+</div>
+
+
 ![App Screenshot 2](./images/Screenshot-3.png)
 
 
