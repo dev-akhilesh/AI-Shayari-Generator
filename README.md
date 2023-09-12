@@ -62,7 +62,7 @@ To run this project, you will need to add the following environment variables to
 #### Get 
 
 ```http
-  GET /shayari?keyword="value"
+  GET /generate-shayari?keyword="value"
 ```
 
 ## Demo
